@@ -1,2 +1,2 @@
-# PCA-ColorSorting
+# PCA-based colors sorting
 Color Sorting is not a straight forward process. This is due to the fact that there is no total order defined over 3-tuples (RGB). Principal Component Analysis is a way to impose an order on a higher dimensional space using 'Principal Components', axes across data that maximize variance. These PCs define the 'recipe' that make up the axis. The recipe tells us how much of an influence each component has in the variance of the data. More information on PCA can be found in this excellent [video](https://www.youtube.com/watch?v=FgakZw6K1QQ) from StatQuest
